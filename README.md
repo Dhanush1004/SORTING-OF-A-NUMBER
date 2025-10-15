@@ -84,7 +84,7 @@ END
 ```
 ## OUTPUT(Descending order)
 
-<img width="764" height="379" alt="image" src="https://github.com/user-attachments/assets/567808f0-96a4-4b25-9997-66f3a15f6209" />
+<img width="751" height="379" alt="Screenshot 2025-10-15 084147" src="https://github.com/user-attachments/assets/15c93f8d-88c7-476a-960f-93ac04b1ee7e" />
 
 
 ---
